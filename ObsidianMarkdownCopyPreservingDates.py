@@ -1,7 +1,7 @@
-# Btach Change Obsidian Markdown Notes preseving dates
+# Batch Change Obsidian Markdown Notes preserving dates
 # Script to change any Obsidian Notes whilest preserving the creation and modification dates
 
-# works on Mac OS. Uses the shell touch command under the covers
+# works on Mac OS only. Uses the shell touch command under the covers
 
 import os
 import datetime
